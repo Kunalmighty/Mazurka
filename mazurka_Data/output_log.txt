@@ -1,0 +1,583 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4963]
+    Renderer: Intel(R) HD Graphics 5500
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+desktop: 1366x768 60Hz; virtual: 3520x1668 at -234,-900
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.342500 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 100.
+Total: 6.480900 ms (FindLiveObjects: 0.005600 ms CreateObjectMapping: 0.006400 ms MarkObjects: 0.054500 ms  DeleteObjects: 5.395300 ms)
+
+UnloadTime: 0.237300 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 6.835200 ms (FindLiveObjects: 0.008600 ms CreateObjectMapping: 0.007200 ms MarkObjects: 0.105500 ms  DeleteObjects: 5.970400 ms)
+
+Platform assembly: C:\Users\lilOne\Dropbox\The Past\Mazurka\Mazurka\mazurka_Data\Managed\System.Core.dll (this message is harmless)
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AIBoss01.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 26.528099 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7861 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 7.658000 ms (FindLiveObjects: 0.355800 ms CreateObjectMapping: 0.891200 ms MarkObjects: 0.108100 ms  DeleteObjects: 5.699200 ms)
+
+UnloadTime: 0.234100 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 9.895101 ms (FindLiveObjects: 0.007800 ms CreateObjectMapping: 0.007300 ms MarkObjects: 0.114800 ms  DeleteObjects: 9.036799 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at FollowEntity.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AIBoss01.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Stop ()
+  at BossMusic.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 33.812298 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8228 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 7.443600 ms (FindLiveObjects: 0.311600 ms CreateObjectMapping: 0.631000 ms MarkObjects: 0.115400 ms  DeleteObjects: 5.747800 ms)
+
+UnloadTime: 0.231500 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 1.259400 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.017300 ms MarkObjects: 0.125000 ms  DeleteObjects: 0.446500 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at FollowEntity.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Frozen, setting offpath...
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getWaypoint (System.String name) [0x00000] in <filename unknown>:0 
+  at WaypointPather.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.SortedList`2[System.String,System.Boolean].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at GameState.getBoolObjective (System.String name) [0x00000] in <filename unknown>:0 
+  at ObjectiveDoor.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.AudioSource:Play (ulong)
+  at UnityEngine.AudioSource.Play () [0x00000] in <filename unknown>:0 
+  at ObjectiveKey.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 37.404800 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9110 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 8.604700 ms (FindLiveObjects: 0.271600 ms CreateObjectMapping: 0.982900 ms MarkObjects: 0.137000 ms  DeleteObjects: 6.549700 ms)
+
